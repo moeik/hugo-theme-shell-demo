@@ -1,6 +1,6 @@
 baseURL = "https://hugo-theme-shell.netlify.app/"
 languageCode = "en-us"
-title = "root@Aimt:~# Hello World"
+title = "Aimt@blog:~# Hello World"
 theme = "hugo-theme-shell"
 
 [Params]
