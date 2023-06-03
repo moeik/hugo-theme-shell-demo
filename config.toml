@@ -26,7 +26,7 @@ theme = "hugo-theme-shell"
   # ...
   # Note: result of the tree command
   userName = "Aimt"
-  pcName = "Blog"
+  pcName = "blog"
   workDir = "mydir"
   profile = "About.txt"
 
@@ -70,4 +70,8 @@ theme = "hugo-theme-shell"
     ["Python", "#"],
     ["Go", "#"],
     ["Hugo", "/post/some-activity.md"],
+    [
+      ["Hugo1", "/post/some-activity.md"],
+      ["Hugo2", "/post/some-activity.md"],
+    ],
   ]
