@@ -1,4 +1,7 @@
+baseURL = "https://hugo-theme-shell.netlify.app/"
+languageCode = "en-us"
 title = "Aimt@blog:~# Hello World"
+theme = "hugo-theme-shell"
 
 [Params]
   # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
