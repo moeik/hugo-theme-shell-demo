@@ -10,6 +10,10 @@ theme = "hugo-theme-shell"
     pcName = "Blog"
     workDir = "mydir"
     profile = "profile.txt"
+    description = """
+    Hi I am Aimt!
+    Nice to meet you!
+    """
 
     [Params.Tree]
     use = true
