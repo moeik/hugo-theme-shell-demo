@@ -6,6 +6,10 @@ theme = "hugo-theme-shell"
 [Params]
     [Params.Terminal]
     schema = "monokai"
+    userName = "Aimt"
+    pcName = "Blog"
+    workDir = "mydir"
+    profile = "profile.txt"
 
     [Params.Tree]
     use = true
